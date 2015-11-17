@@ -1,5 +1,5 @@
 {
-  "name": "wapllpay",
+  "name": "x-wapllpay",
   "description": "连连支付 lianlian pay WAP sdk",
   "main": "index.js",
   "author": {
@@ -17,10 +17,10 @@
     "WAP支付",
     "lianlian"
   ],
-  "version": "0.2.1",
+  "version": "0.2.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/navyxie/wapllpay.git"
+    "url": "https://github.com/dev-tool/wapllpay.git"
   },
   "dependencies": {
     "utf8": "^2.1.0",
